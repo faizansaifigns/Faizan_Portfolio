@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Contact</title>
+  <link rel="stylesheet" href="../style/style.css" />
+  <link rel="icon" href="/assets/favicons/favicon.png" type="image/png" sizes="32x32" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" />
+  <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css" />
+  
+</head>
+
+<body>
+
+  <!-- Header -->
+  <header class="header" id="header">
+    <a href="../../index.html" class="logo"><span class="main-icon"></span><span>FaizanSaifi</span></a>
+
+    <div class="navbar">
+      <a href="../../index.html">Home</a>
+      <a href="./skills.html">Skills</a>
+      <a href="./education.html">Education</a>
+      <a href="./certificates.html">Certificates</a>
+      <a href="./projects.html">Projects</a>
+      <a href="./contact.html" class="active">Contact</a>
+    </div>
+
+    <div class="main">
+      <div class="main-items menu-icon-container" id="menu-icon-js">
+        <div class="bx bx-menu" id="menu-icon"></div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Contact Main -->
+<main class="contact-main">
+  <div class="contact-container">
+
+    <!-- Left Section: Contact Info (No Header) -->
+    <div class="contact-section">
+      <div class="section">
+        <!-- Email -->
+        <div class="block">
+          <div class="icon">
+            <i class="fas fa-envelope fa-3x"></i>
+          </div>
+          <div class="content">
+            <div class="content-row">
+              <div class="name">Email — Faizangns03.com</div>
+              <div class="line"></div>
+            </div>
+            <div class="text">
+              Send me an email for business inquiries or collaboration opportunities
+            </div>
+          </div>
+        </div>
+
+        <!-- Phone -->
+        <div class="block">
+          <div class="icon">
+            <i class="fas fa-phone-alt fa-3x"></i>
+          </div>
+          <div class="content">
+            <div class="content-row">
+              <div class="name">Phone — +91-6395552318</div>
+              <div class="line"></div>
+            </div>
+            <div class="text">
+              Call me for urgent matters or quick discussions
+            </div>
+          </div>
+        </div>
+
+        <!-- LinkedIn -->
+        <div class="block">
+          <div class="icon">
+            <a href="https://www.linkedin.com/in/faizan-saifi-83961328b/" target="_blank">
+              <i class="fab fa-linkedin fa-3x"></i>
+            </a>
+          </div>
+          <div class="content">
+            <div class="content-row">
+              <a href="https://www.linkedin.com/in/faizan-saifi-83961328b/" target="_blank" class="name">LinkedIn — Faizan Saifi</a>
+              <div class="line"></div>
+            </div>
+            <div class="text">
+              Connect with me professionally and view my career journey
+            </div>
+          </div>
+        </div>
+
+        <!-- GitHub -->
+        <div class="block">
+          <div class="icon">
+            <a href="https://github.com/faizansaifigns" target="_blank">
+              <i class="fab fa-github fa-3x"></i>
+            </a>
+          </div>
+          <div class="content">
+            <div class="content-row">
+              <a href="https://github.com/faizansaifigns" target="_blank" class="name">GitHub — faizansaifigns</a>
+              <div class="line"></div>
+            </div>
+            <div class="text">
+              Explore my code repositories and open source contributions
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+   <!-- Contact Section -->
+<div class="contact-sections">
+  <div class="contact-header">
+    <div class="header-text">Send a Message</div>
+    <div class="header-line"></div>
+  </div>
+
+  <div class="contact-form-wrapper">
+<form id="contact-form" action="https://formspree.io/f/movlwoal" method="POST" class="contact-form">
+  <input type="hidden" name="access_key" value="58ef8bd3-f9a9-4c47-ae10-433d9463a32f">
+      <div class="input-box">
+        <label for="name">Your Name</label>
+        <input type="text" name="name" id="name" required placeholder="Enter your name" autocomplete="name" />
+      </div>
+      <div class="input-box">
+        <label for="email">Your Email</label>
+        <input type="email" name="email" id="email" required placeholder="Enter your email" autocomplete="email" />
+      </div>
+      <div class="input-box">
+        <label for="subject">Subject</label>
+        <input type="text" name="subject" id="subject" placeholder="Enter subject" autocomplete="off" />
+      </div>
+      <div class="input-box">
+        <label for="message">Message</label>
+        <textarea name="message" id="message" rows="5" required placeholder="Your message..." autocomplete="off"></textarea>
+      </div>
+      <div class="error">Please fill all required fields correctly.</div>
+      <div class="email-error">Please enter a valid email address.</div>
+      <button type="submit" class="send-button contact-button">
+        <span class="submit-text">Send Message</span>
+        <span class="contact-load" style="display:none;">Sending...</span>
+      </button>
+    </form>
+  </div>
+
+  <!-- ✅ Success Message Section (Initially Hidden) -->
+  <div class="contact-submit-after hide">
+    <div class="submit-success-message">
+      <p>Thank you for contacting us! We will get back to you soon.</p>
+      <button class="csa-ok">OK</button>
+    </div>
+  </div>
+</div>
+
+
+  </div> <!-- End contact-container -->
+</main>
+
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="left">
+      &copy; 2025 • FaizanSaifi • All Rights Reserved
+    </div>
+    <div class="right">
+      <div class="social"><a href="https://www.instagram.com/faizansaifi0310/" target="_blank"><i class="fa-brands fa-instagram"></i></a></div>
+      <div class="social"><a href="https://www.linkedin.com/in/faizan-saifi-83961328b/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></div>
+      <div class="social"><a href="https://github.com/faizansaifigns" target="_blank"><i class="fa-brands fa-github"></i></a></div>
+    </div>
+  </footer>
+
+  <div class="nav-touch-close" id="nav-tc-js"></div>
+  <script src="../script/script.js"></script>
+
+</body>
+
+</html>
