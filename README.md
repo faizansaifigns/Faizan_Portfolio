@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="Screenshot 2025-08-01 004732.png" alt="Portfolio Main Preview" width="80%" />
+  <img src="index.png" alt="Portfolio Main Preview" style="max-width: 100%; height: auto;" />
+
 </p>
 
 ---
