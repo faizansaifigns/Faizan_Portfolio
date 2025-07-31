@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="./unique-portfolio-main/assets/images/preview.png" alt="Portfolio Main Preview" width="80%" />
+  <img src="Screenshot 2025-08-01 004732.png" alt="Portfolio Main Preview" width="80%" />
 </p>
 
 ---
@@ -37,15 +37,26 @@
 
 ## 🖼️ Screenshots
 
-| Skills Page                            | Contact Page                           |
-|----------------------------------------|----------------------------------------|
-| ![Skills](./unique-portfolio-main/assets/images/preview-skill.png) | ![Contact](./unique-portfolio-main/assets/images/preview-contact.png) |
+<table>
+  <tr>
+    <td align="center"><strong>Skills Page</strong></td>
+    <td align="center"><strong>Contact Page</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="skill.png" alt="Skills Page" width="90%" />
+    </td>
+    <td align="center">
+      <img src="project.png" alt="project Page" width="90%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📬 Contact Me
 
-If you're a recruiter, collaborator, or just curious to connect, feel free to reach out via the [Contact Page](https://688bd261239aec3b6611f4e4--regal-kashata-a47d14.netlify.app/src/pages/contact.html).  
+If you're a recruiter, collaborator, or just curious to connect, feel free to reach out via the [Contact Page](https://688bd261239aec3b6611f4e4--regal-kashata-a47d14.netlify.app/src/pages/contact).  
 Let’s build something amazing together!
 
 ---
