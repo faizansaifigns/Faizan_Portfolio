@@ -5,7 +5,7 @@
   <a href="https://688bd261239aec3b6611f4e4--regal-kashata-a47d14.netlify.app/" target="_blank">🌐 Live Website</a>
 </p>
 <p align="center">
-  <img src="index.png" alt="Portfolio Main Preview" style="max-width: 100%; height: auto;" />
+  <img src="index(1).png" alt="Portfolio Main Preview" style="max-width: 100%; height: auto;" />
 
 </p>
 
