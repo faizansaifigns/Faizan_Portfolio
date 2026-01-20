@@ -5,7 +5,7 @@
   <a href="https://688bd261239aec3b6611f4e4--regal-kashata-a47d14.netlify.app/" target="_blank">🌐 Live Website</a>
 </p>
 <p align="center">
-  <img src="index(1).png" alt="Portfolio Main Preview" style="max-width: 100%; height: auto;" />
+  <img src="first.png" alt="Portfolio Main Preview" style="max-width: 100%; height: auto;" />
 
 </p>
 
@@ -44,10 +44,10 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="skill.png" alt="Skills Page" width="90%" />
+      <img src="skil.png" alt="Skills Page" width="90%" />
     </td>
     <td align="center">
-      <img src="project.png" alt="project Page" width="90%" />
+      <img src="pro.png" alt="project Page" width="90%" />
     </td>
   </tr>
 </table>
