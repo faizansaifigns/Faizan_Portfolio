@@ -4,7 +4,9 @@
   <strong>A personal portfolio website to showcase my skills, projects, and achievements.</strong><br>
   <a href="https://688bd261239aec3b6611f4e4--regal-kashata-a47d14.netlify.app/" target="_blank">🌐 Live Website</a>
 </p>
-
+<p align="center">
+  <img src="https://atabul-portfolio.netlify.app/assets/images/preview.png" alt="Portfolio Main Preview" width="80%" />
+</p>
 
 ---
 
